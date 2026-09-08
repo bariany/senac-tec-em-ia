@@ -23,5 +23,5 @@ Repositório com exercícios práticos e scripts de estudo focados em fundamento
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
+   git clone 
+   cd 
