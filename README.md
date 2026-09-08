@@ -15,7 +15,6 @@ Repositório com exercícios práticos e scripts de estudo focados em fundamento
 ### Tecnologias Utilizadas
 
 * **Python 3.x**
-* **Jupyter Notebook**
 * **MySQL** (`mysql-connector-python`)
 
 ---
