@@ -1,6 +1,6 @@
 # Inteligência de Negócios(Business Intelligence - BI) e Fundamentos em Python
 
-Repositório com exercícios práticos e scripts de estudo focados em fundamentos de Python, lógica de programação, conceitos básicos de Business Intelligence (BI) e integração com banco de dados MySQL[cite: 1, 3, 5, 6].
+Repositório com exercícios práticos e scripts de estudo focados em fundamentos de Python, lógica de programação, conceitos básicos de Business Intelligence (BI) e integração com banco de dados MySQL.
 
 ---
 
