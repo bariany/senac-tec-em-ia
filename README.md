@@ -6,7 +6,7 @@ Repositório com exercícios práticos e scripts de estudo focados em fundamento
 
 ### Conteúdo do Repositório
 
-* **Lógica e Estruturas de Repetição:** Uso de laços `for`, `while`, condicionais e controle de fluxo com `break`[cite: 3, 6].
+* **Lógica e Estruturas de Repetição:** Uso de laços `for`, `while`, condicionais e controle de fluxo com `break`.
 * **Estruturas de Dados e Estatística Descritiva:** Manipulação de listas e dicionários para cálculo de métricas de vendas (faturamento total, produto mais vendido, filtros por categoria e margem)
 * **Integração com Banco de Dados (MySQL):** Conexão via `mysql-connector-python`, execução de queries (`SELECT`), agregação de valores e consultas analíticas de tabelas de vendas/produtos. 
 
